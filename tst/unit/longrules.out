@@ -1,0 +1,51 @@
+Printing Digrams:
+   NT8 , e
+   a , a
+   e , NT11
+   NT3 , NT11
+   c , b
+   b , c
+   b , d
+   NT8 , NT8
+   a , c
+   NT3 , NT8
+Printing Rules:
+1 -> (count 0)
+   NT3
+   3 -> (count 2)
+      a
+      a
+      c
+   NT8
+   8 -> (count 2)
+      NT3
+      3 -> (count 2)
+         a
+         a
+         c
+      NT11
+      11 -> (count 2)
+         b
+         c
+         b
+         d
+   NT8
+   8 -> (count 2)
+      NT3
+      3 -> (count 2)
+         a
+         a
+         c
+      NT11
+      11 -> (count 2)
+         b
+         c
+         b
+         d
+   e
+   NT11
+   11 -> (count 2)
+      b
+      c
+      b
+      d

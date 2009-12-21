@@ -1,0 +1,1 @@
+/EHsc /O2 /GL /Zi -DASSERT -DCHECK=1 Sequitur.cpp

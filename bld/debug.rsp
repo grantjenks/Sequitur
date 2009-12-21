@@ -1,0 +1,1 @@
+/EHsc /Od /Zi -DBREAK -DCHECK=1 Sequitur.cpp

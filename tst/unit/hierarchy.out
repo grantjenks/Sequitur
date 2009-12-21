@@ -1,0 +1,169 @@
+Printing Digrams:
+   a , a
+   NT4 , NT4
+   NT5 , NT4
+   NT5 , NT5
+   NT3 , NT3
+   NT2 , NT2
+Printing Rules:
+1 -> (count 0)
+   NT5
+   5 -> (count 3)
+      NT4
+      4 -> (count 3)
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+      NT4
+      4 -> (count 3)
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+   NT5
+   5 -> (count 3)
+      NT4
+      4 -> (count 3)
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+      NT4
+      4 -> (count 3)
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+   NT5
+   5 -> (count 3)
+      NT4
+      4 -> (count 3)
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+      NT4
+      4 -> (count 3)
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+         NT3
+         3 -> (count 2)
+            NT2
+            2 -> (count 2)
+               a
+               a
+            NT2
+            2 -> (count 2)
+               a
+               a
+   NT4
+   4 -> (count 3)
+      NT3
+      3 -> (count 2)
+         NT2
+         2 -> (count 2)
+            a
+            a
+         NT2
+         2 -> (count 2)
+            a
+            a
+      NT3
+      3 -> (count 2)
+         NT2
+         2 -> (count 2)
+            a
+            a
+         NT2
+         2 -> (count 2)
+            a
+            a

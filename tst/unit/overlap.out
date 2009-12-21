@@ -1,0 +1,26 @@
+Printing Digrams:
+   b , b
+   NT2 , c
+   c , NT3
+   a , b
+   NT3 , NT2
+   NT2 , NT3
+Printing Rules:
+1 -> (count 0)
+   NT2
+   2 -> (count 2)
+      a
+      b
+   NT3
+   3 -> (count 2)
+      b
+      b
+   NT2
+   2 -> (count 2)
+      a
+      b
+   c
+   NT3
+   3 -> (count 2)
+      b
+      b
